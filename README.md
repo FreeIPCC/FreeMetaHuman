@@ -43,7 +43,7 @@ FreeMetaHuman致力于成为全球领先的开源数字虚拟人方案，不仅�
 
 总之，FreeMetaHuman不仅是一款工具，更是一个平台，一个连接现实与虚拟、激发无限创意的桥梁。我们期待与全球用户一起，探索数字世界的无限可能，共创未来！！
 
-# 2025.01.30最新demo链接enjoy😄：待定
+# 2025.01.31最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
 - 官方WeChat:freeaicc
