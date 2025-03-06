@@ -1,5 +1,5 @@
 # FreeMetaHuman数字虚拟人
-MetaHuman，2D数字人，3D数字人，唇形算法，数字虚拟人软件，企业虚拟形象制作，虚拟人短视频创作，数字人交互设计，数字导航员，虚拟数字人客服，元宇宙数字人等！
+MetaHuman，2D数字人，3D数字人，唇形算法，数字虚拟人软件，企业虚拟形象制作，虚拟人短视频创作，数字人交互设计，数字导航员，虚拟数字人客服，元宇宙数字人等!!!
 
 # FreeMetaHuman数字虚拟人：基本功能
 
@@ -46,12 +46,12 @@ FreeMetaHuman致力于成为全球领先的开源数字虚拟人方案，不仅�
 # 2025.03.06最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+- Email:leehear@gmail.com
 
-![image](https://github.com/user-attachments/assets/bdc3d3d0-084f-41b4-bbcf-ef87abc66173)
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/86472f44-8ada-4916-9977-82ae0f6f7527)
 
 # FreeMetaHuman关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！
